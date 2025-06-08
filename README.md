@@ -67,8 +67,6 @@ flutter run
 
 ## Screenshots
 
-## Screenshots
-
 ### 🔐 Login Screen  
 <img src="assets/login.jpg" alt="Login Screen" width="100"/>
 
